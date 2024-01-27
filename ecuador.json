@@ -1,0 +1,380 @@
+{
+    "name": "ECUADOR",
+    "children": [
+        {
+            "name": "SIERRA",
+            "children": [
+                {
+                    "name": "AZUAY",
+                    "total": 712127,
+                    "alPais": 4.92,
+                    "Genero": [
+                        {
+                            "sexo": "Mujeres",
+                            "porc": 52.67
+                        },
+                        {
+                            "sexo": "Hombres",
+                            "porc": 47.33
+                        }
+                    ]
+                },
+                {
+                    "name": "BOLIVAR",
+                    "total": 183641,
+                    "alPais": 1.27,
+                    "Genero": [
+                        {
+                            "sexo": "Mujeres",
+                            "porc": 51.06
+                        },
+                        {
+                            "sexo": "Hombres",
+                            "porc": 48.94
+                        }
+                    ]
+                },
+                {
+                    "name": "CAÑAR",
+                    "total": 225184,
+                    "alPais": 1.55,
+                    "Genero": [
+                        {
+                            "sexo": "Mujeres",
+                            "porc": 53.27
+                        },
+                        {
+                            "sexo": "Hombres",
+                            "porc": 46.73
+                        }
+                    ]
+                },
+                {
+                    "name": "CARCHI",
+                    "total": 164524,
+                    "alPais": 1.36,
+                    "Genero": [
+                        {
+                            "sexo": "Mujeres",
+                            "porc": 50.67
+                        },
+                        {
+                            "sexo": "Hombres",
+                            "porc": 49.33
+                        }
+                    ]
+                },
+                {
+                    "name": "COTOPAXI",
+                    "total": 409205,
+                    "alPais": 2.82,
+                    "Genero": [
+                        {
+                            "sexo": "Mujeres",
+                            "porc": 51.46
+                        },
+                        {
+                            "sexo": "Hombres",
+                            "porc": 48.54
+                        }
+                    ]
+                },
+                {
+                    "name": "CHIMBORAZO",
+                    "total": 458581,
+                    "alPais": 3.17,
+                    "Genero": [
+                        {
+                            "sexo": "Mujeres",
+                            "porc": 52.16
+                        },
+                        {
+                            "sexo": "Hombres",
+                            "porc": 47.84
+                        }
+                    ]
+                },
+                {
+                    "name": "IMBABURA",
+                    "total": 398244,
+                    "alPais": 2.75,
+                    "Genero": [
+                        {
+                            "sexo": "Mujeres",
+                            "porc": 51.37
+                        },
+                        {
+                            "sexo": "Hombres",
+                            "porc": 48.63
+                        }
+                    ]
+                },
+                {
+                    "name": "LOJA",
+                    "total": 448966,
+                    "alPais": 3.1,
+                    "Genero": [
+                        {
+                            "sexo": "Mujeres",
+                            "porc": 50.82
+                        },
+                        {
+                            "sexo": "Hombres",
+                            "porc": 49.18
+                        }
+                    ]
+                },
+                {
+                    "name": "PICHINCHA",
+                    "total": 2576287,
+                    "alPais": 17.79,
+                    "Genero": [
+                        {
+                            "sexo": "Mujeres",
+                            "porc": 51.26
+                        },
+                        {
+                            "sexo": "Hombres",
+                            "porc": 48.74
+                        }
+                    ]
+                },
+                {
+                    "name": "TUNGURAHUA",
+                    "total": 504583,
+                    "alPais": 3.48,
+                    "Genero": [
+                        {
+                            "sexo": "Mujeres",
+                            "porc": 51.49
+                        },
+                        {
+                            "sexo": "Hombres",
+                            "porc": 48.51
+                        }
+                    ]
+                },
+                {
+                    "name": "SANTO DOMINGO",
+                    "total": 368013,
+                    "alPais": 2.54,
+                    "Genero": [
+                        {
+                            "sexo": "Mujeres",
+                            "porc": 50.26
+                        },
+                        {
+                            "sexo": "Hombres",
+                            "porc": 49.74
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "COSTA",
+            "children": [
+                {
+                    "name": "EL ORO",
+                    "total": 600659,
+                    "alPais": 4.15,
+                    "Genero": [
+                        {
+                            "sexo": "Mujeres",
+                            "porc": 49.33
+                        },
+                        {
+                            "sexo": "Hombres",
+                            "porc": 50.67
+                        }
+                    ]
+                },
+                {
+                    "name": "ESMERALDAS",
+                    "total": 534092,
+                    "alPais": 3.69,
+                    "Genero": [
+                        {
+                            "sexo": "Mujeres",
+                            "porc": 49.20
+                        },
+                        {
+                            "sexo": "Hombres",
+                            "porc": 50.80
+                        }
+                    ]
+                },
+                {
+                    "name": "GUAYAS",
+                    "total": 3645483,
+                    "alPais": 25.17,
+                    "Genero": [
+                        {
+                            "sexo": "Mujeres",
+                            "porc": 50.19
+                        },
+                        {
+                            "sexo": "Hombres",
+                            "porc": 49.81
+                        }
+                    ]
+                },
+                {
+                    "name": "LOS RIOS",
+                    "total": 778115,
+                    "alPais": 5.37,
+                    "Genero": [
+                        {
+                            "sexo": "Mujeres",
+                            "porc": 48.84
+                        },
+                        {
+                            "sexo": "Hombres",
+                            "porc": 51.16
+                        }
+                    ]
+                },
+                {
+                    "name": "MANABI",
+                    "total": 1369780,
+                    "alPais": 9.46,
+                    "Genero": [
+                        {
+                            "sexo": "Mujeres",
+                            "porc": 49.68
+                        },
+                        {
+                            "sexo": "Hombres",
+                            "porc": 50.32
+                        }
+                    ]
+                },
+                {
+                    "name": "GALAPAGOS",
+                    "total": 458581,
+                    "alPais": 0.17,
+                    "Genero": [
+                        {
+                            "sexo": "Mujeres",
+                            "porc": 48.17
+                        },
+                        {
+                            "sexo": "Hombres",
+                            "porc": 51.83
+                        }
+                    ]
+                },
+                {
+                    "name": "SANTA ELENA",
+                    "total": 308693,
+                    "alPais": 2.13,
+                    "Genero": [
+                        {
+                            "sexo": "Mujeres",
+                            "porc": 49.19
+                        },
+                        {
+                            "sexo": "Hombres",
+                            "porc": 50.81
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ORIENTE",
+            "children": [
+                {
+                    "name": "MORONA SANTIAGO",
+                    "total": 147940,
+                    "alPais": 1.02,
+                    "Genero": [
+                        {
+                            "sexo": "Mujeres",
+                            "porc": 49.41
+                        },
+                        {
+                            "sexo": "Hombres",
+                            "porc": 50.59
+                        }
+                    ]
+                },
+                {
+                    "name": "NAPO",
+                    "total": 103697,
+                    "alPais": 0.72,
+                    "Genero": [
+                        {
+                            "sexo": "Mujeres",
+                            "porc": 49.11
+                        },
+                        {
+                            "sexo": "Hombres",
+                            "porc": 50.89
+                        }
+                    ]
+                },
+                {
+                    "name": "PASTAZA",
+                    "total": 83933,
+                    "alPais": 0.58,
+                    "Genero": [
+                        {
+                            "sexo": "Mujeres",
+                            "porc": 49.65
+                        },
+                        {
+                            "sexo": "Hombres",
+                            "porc": 50.35
+                        }
+                    ]
+                },
+                {
+                    "name": "ZAMORA CHINCHIPE",
+                    "total": 91376,
+                    "alPais": 0.63,
+                    "Genero": [
+                        {
+                            "sexo": "Mujeres",
+                            "porc": 48.07
+                        },
+                        {
+                            "sexo": "Hombres",
+                            "porc": 51.93
+                        }
+                    ]
+                },
+                {
+                    "name": "SUCUMBIOS",
+                    "total": 176472,
+                    "alPais": 1.22,
+                    "Genero": [
+                        {
+                            "sexo": "Mujeres",
+                            "porc": 47.39
+                        },
+                        {
+                            "sexo": "Hombres",
+                            "porc": 52.61
+                        }
+                    ]
+                },
+                {
+                    "name": "ORELLANA",
+                    "total": 136396,
+                    "alPais": 0.94,
+                    "Genero": [
+                        {
+                            "sexo": "Mujeres",
+                            "porc": 47.12
+                        },
+                        {
+                            "sexo": "Hombres",
+                            "porc": 52.88
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
